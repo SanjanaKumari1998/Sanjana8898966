@@ -1,4 +1,4 @@
 Name: Sanjana
 
-Studentid: 8898966
+StudentID: 8898966
 
